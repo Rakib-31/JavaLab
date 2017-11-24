@@ -8,7 +8,7 @@ public class Part2 {
     public static int stopIndexOf(String dna, String codon){
         return dna.indexOf(codon);
     }
-    
+    /////////
     public static boolean isValid(int startIndex, int stopIndex){
         if(startIndex == -1 || stopIndex == -1)
             return false;
