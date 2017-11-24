@@ -23,6 +23,7 @@ public class Part3 {
 		
 		return (b.substring(index + a.length(), b.length()));
 	}
+	/////////
 	
 	public static void testing(){
 		String a,b;
