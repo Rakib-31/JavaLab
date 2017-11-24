@@ -76,6 +76,7 @@ void testSimpleGene(){
     gene = findSimpleGene(DNA);
     System.out.println("Gene: " + gene);
 }
+//////////////////
 	public static void main(String[] args)
 	{
 		Part1 ob = new Part1();
